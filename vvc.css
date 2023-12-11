@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.uzb1{
+    background-color: aqua;
+    border-radius: 50%;
+    width: 270px;
+    height: 270px;
+    border: solid 0px;
+
+}
+.uzb1{
+    animation-name: nonm;
+    animation-iteration-count: infinite;
+    animation-duration: 4s;
+    animation-direction: alternate ;
+    animation-timing-function: linear;
+   position: relative;
+   top: 3;
+   
+
+  
+}
+@keyframes nonm{
+    from{
+   
+      background-image: url("https://cdn.pixabay.com/photo/2016/08/11/23/48/mountains-1587287_640.jpg");
+      height: 100px;
+      width: 200px;
+      border-radius: 50%;
+     
+    }
+    to{
+       
+        background-image: url("https://cdn.pixabay.com/photo/2015/07/09/22/45/tree-838667_640.jpg");
+        background-position: center;
+        background-size: cover;
+     border-radius: 0%;
+
+     height: 270px;
+     width: 270px;
+    }
+}

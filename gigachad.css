@@ -1,0 +1,332 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.head2{
+   
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+
+width: 1600px;
+height: 100px;
+
+}
+
+.home1{
+    position: relative;
+    left: 100px;
+    top: 20px;
+    color: white;
+   
+}
+
+.home4{
+    position: relative;
+    left: 200px;
+    top: -7px;
+    color: white;
+    
+}
+.head3{
+    background-image: url("https://cdn-icons-png.flaticon.com/128/9348/9348968.png");
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    left: 600px;
+    top: -100px;
+}
+.head4{
+    background-image: url("https://cdn-icons-png.flaticon.com/128/7598/7598570.png");
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    left: 760px;
+    top: -200px;
+    
+}
+.head5{
+    position: relative;
+    left: 1300px;
+    top: -260px;
+    color: black;
+}
+.head6{
+    position: relative;
+    left:1320px ;
+    top: -360px;
+    background-size: cover;
+    background-position: center;
+    width: 80px;
+    height: 80px;
+    background-image: url("https://cdn-icons-png.flaticon.com/128/732/732084.png");
+
+}
+.head7{
+    background-image: url("https://cdn-icons-gif.flaticon.com/8716/8716782.gif");
+    background-position: center;
+    background-size: cover;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -390px;
+    left: 267px;
+}
+.head8{
+    position: relative;
+   top: -360px;
+   left: 90px;
+   border-radius: 30%;
+   border: solid 1px grey;
+   height: 35px;
+   width: 210px;
+  
+}
+.head9{
+    color: white;
+    position: relative;
+    top: -330px;
+    text-shadow: 2px 2px 3px black;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+  
+}
+.head10{
+    background-image: url("https://cdn-icons-png.flaticon.com/128/1/1983.png");
+    background-position: center;
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: -494px;
+    left: 270px;
+    
+}
+.head11{
+    position: relative;
+    left: 615px;
+    top: -300px;
+    color: black;
+    
+      
+}
+h3{
+    display: inline-block;
+    margin-right: 15px;
+}
+hr{
+    position: relative;
+    top: -330px;
+}
+.head12{
+    position: relative;
+    top: -296px;
+}
+.head13{
+    background-image: url("https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/90568c97-e377-4de3-a426-8d8a1a2cdb92/air-force-1-low-retro-mens-shoes-KZhTqR.png");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: -270px;
+    left: 50px;
+}
+.head14{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCymRjQQXnSAc5JtKT6-8HiFqdnS_rbuh5EA&usqp=CAU");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: -569px;
+    left: 390px;
+}
+.head15{
+    background-image: url("https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d9e36a27-78d7-40da-b5c9-a45f8d256808/ja-1-big-kids-basketball-shoes-Wj8mKb.png");
+
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: -870px;
+    left: 730px;
+}
+.head16{
+    background-image: url("https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ba8e4589-da10-4b99-a45a-eaaa25c56667/freak-5-big-kids-basketball-shoes-6LCpbJ.png");
+
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: -1170px;
+    left: 1086px;
+}
+.head17{
+    background-image: url("https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/013fe29a-9eb8-4a97-8fe8-8697f52bf445/women-s-air-jordan-4-frozen-moments-aq9129-001-release-date.jpg");
+     
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    left: 50px;
+    top: -1100px;
+}
+.head21{
+    position: relative;
+    left: 130px;
+    top: -2360px;
+    color: blue;
+    border-radius: 15%;
+    height: 30px;
+    width: 140px;
+    border: solid 0px ;
+    background: rgb(252,127,69);
+background: linear-gradient(90deg, rgba(252,127,69,1) 14%, rgba(253,247,49,1) 56%, rgba(253,55,29,1) 92%);
+}
+.heading{
+    color:white;
+}
+.head18{
+    background-image: url("https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/18b47dc5-bf90-4273-81c9-921f9ab7d7ed/aaf88-x-billie-fire-red-and-white-dz6763-101-release-date.jpg");
+     
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    left: 390px;
+    top: -1400px;
+}
+.head19{
+    
+        background-image: url("https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4107358f-c78e-4e23-ac4e-a436088b554d/aaf88-x-billie-black-and-white-dz6763-102-release-date.jpg");
+    
+        width: 300px;
+        height: 300px;
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        top: -1700px;
+        left: 730px;
+}
+.head20{
+        background-image: url("https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/c8460b67-10d2-4c07-8307-95aa986e8287/women-s-dunk-low-total-orange-fn7773-001-release-date.jpg");
+    
+        width: 300px;
+        height: 300px;
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        top: -2000px;
+        left: 1086px;
+}
+.head22{
+    
+        position: relative;
+        top: -1990px;
+        left: -17px;
+        border-radius: 15%;
+        height: 30px;
+        width: 140px;
+        border: solid 0px ;
+        background: rgb(252,127,69);
+    background: linear-gradient(90deg, rgba(252,127,69,1) 14%, rgba(253,247,49,1) 56%, rgba(253,55,29,1) 92%);
+}
+.heading1{
+    color: white;
+}
+.head23{
+    position: relative;
+    top: -1990px;
+    left: 180px;
+    border-radius: 15%;
+    height: 30px;
+    width: 140px;
+    border: solid 0px ;
+    background: rgb(252,127,69);
+background: linear-gradient(90deg, rgba(252,127,69,1) 14%, rgba(253,247,49,1) 56%, rgba(253,55,29,1) 92%);
+}
+.heading2{
+    color: white;
+}
+.head24{
+    position: relative;
+    top: -1990px;
+    left: 372px;
+    border-radius: 15%;
+    height: 30px;
+    width: 140px;
+    border: solid 0px ;
+    background: rgb(252,127,69);
+background: linear-gradient(90deg, rgba(252,127,69,1) 14%, rgba(253,247,49,1) 56%, rgba(253,55,29,1) 92%);
+}
+.heading3{
+    color: white;
+}
+.head25{
+    position: relative;
+    top: -1990px;
+    left: 600px;
+    border-radius: 15%;
+    height: 30px;
+    width: 140px;
+    border: solid 0px ;
+    background: rgb(252,127,69);
+background: linear-gradient(90deg, rgba(252,127,69,1) 14%, rgba(253,247,49,1) 56%, rgba(253,55,29,1) 92%);
+}
+.heading4{
+    color: white;
+}
+.heading5{
+    color: white;
+}
+.head26{
+    position: relative;
+    top: -2360px;
+    left: -250px;
+    border-radius: 15%;
+    height: 30px;
+    width: 140px;
+    border: solid 0px ;
+    background: rgb(252,127,69);
+background: linear-gradient(90deg, rgba(252,127,69,1) 14%, rgba(253,247,49,1) 56%, rgba(253,55,29,1) 92%);
+}
+
+.head27{
+    position: relative;
+    top: -2360px;
+    left: -66px;
+    border-radius: 15%;
+    height: 30px;
+    width: 140px;
+    border: solid 0px ;
+    background: rgb(252,127,69);
+background: linear-gradient(90deg, rgba(252,127,69,1) 14%, rgba(253,247,49,1) 56%, rgba(253,55,29,1) 92%);
+}
+.heading6{
+    color: white;
+}
+.head28{
+    position: relative;
+    top: -2360px;
+    left: 156px;
+    border-radius: 15%;
+    height: 30px;
+    width: 140px;
+    border: solid 0px ;
+    background: rgb(252,127,69);
+background: linear-gradient(90deg, rgba(252,127,69,1) 14%, rgba(253,247,49,1) 56%, rgba(253,55,29,1) 92%);
+}
+.heading7{
+    color: white;
+}

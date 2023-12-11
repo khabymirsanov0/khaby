@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.grey{
+    background: linear-gradient(90deg, rgb(155, 71, 155), rgb(206, 185, 185), rgb(30, 120, 210));
+ }
+ .sanjar{
+     background-image: url("https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/21252102/2023/1/9/3838e93e-4b2f-4850-aa67-8eea13795d841673263696181-Nike-Air-Force-1-07-Mens-Shoes-8321673263695874-1.jpg");
+     width: 360px;
+     height: 600px;
+     background-size: cover;
+     background-position: center;
+     position: relative;
+     left: 260px ;
+     top: 70px;
+ }
+ .xola{
+     background-color: rgb(65, 65, 241);
+     border: solid 0px;
+     color: white;
+     width: 130px;
+     height: 30px;
+     border-radius: 20%;
+     position: relative;
+     left: 100px;
+ }
+ .toga{
+     width:360px ;
+     height: 600px ;
+     background-color: white;
+     position: relative;
+     left: 630px;
+     top: -528px;
+ }
